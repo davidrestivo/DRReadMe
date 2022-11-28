@@ -5,12 +5,14 @@ This program uses the NPM functions as well as the node module packages in order
 
 ## Links
 
+https://github.com/davidrestivo/DRReadMe
 
 
 
 ## Video Example
 
-![Screenshot for my homework](./assets/images/David%20Restivo%20Quiz%20Screen%20Shot.png)
+https://drive.google.com/file/d/1Nik562LfdFotoErrTyKlRvTFSkV6jtDx/view
+
 
 
 

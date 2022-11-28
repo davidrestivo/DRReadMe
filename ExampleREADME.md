@@ -2,7 +2,7 @@
   
 ![License](https://img.shields.io/static/v1?label=license&message=MIT) 
 
-  ReadMe
+  This project creates a professional README file through the terminal using specific node modules.
   
 ## Table of Contents
   
@@ -20,19 +20,19 @@
   
 ## Installation
   
-index.js
+go to the folder that the program is located in VS Code and open the terminal from there. . Then type node index.js
   
 ## Usage
   
-index.js
+once you have started the program, answer the questions
   
 ## Contributing
   
-read and contriute
+After reading the README, make your contributions and create a new README
   
 ## Tests
   
-no tests
+This is the test
   
 ## License
   
